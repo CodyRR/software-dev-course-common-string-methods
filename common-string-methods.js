@@ -101,3 +101,7 @@ console.log({
   firstCharacter,
   extractedBootcamp,
 });
+
+//This assignment has a Practice Problem 1.  I didn't understand if this was ment 
+// to be created from scratch in this program. I created a new program called:
+// "practic-problem-1.js" that handles that section.
